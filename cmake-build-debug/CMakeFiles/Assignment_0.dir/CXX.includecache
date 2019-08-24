@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anthony/Desktop/School/Grade 12/Semester 1/AP Physics C-Mr. van Bemmel/Assignment 0/main.cpp
+iostream
+-
+bits/stdc++.h
+-
+
